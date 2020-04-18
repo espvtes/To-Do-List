@@ -14,7 +14,7 @@ class item{
         input.disable = true;
         input.classList.add('item_input');
         input.type = 'text';
-        // type
+        
 
         let item_box = document.createElement('div');
         item_box.classList.add('item');
